@@ -1,0 +1,17 @@
+Please fill in your answers to the knowledge quiz below.
+
+1) B
+2) D
+3) A
+4) A
+5) D
+6) B
+7) D
+8) C
+9) C
+10) B
+11) C
+12) C
+13) Argument
+14) local repository, cloud repository
+15) Python is a high-level, dynamic type of language whereas the C programming language is a low-level static type of programming language. For example, in Python you can assign have an identifier point to different data types, such as variable x = 1 (an integer) and then reassign it to x = "an integer" (a string). In the C programming language, an identifier can only point to one data type. 
